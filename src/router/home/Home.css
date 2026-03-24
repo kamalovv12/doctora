@@ -180,13 +180,13 @@ body{
     }
     .about-img1{
         transform: translateX(0px);
-    }
-    .about-img2{
-        transform: translateX(0px)
-    }
-}
-@media screen and (max-width: 1586px) {
-    .about-page{
-        transform: translateY(50px);
-    }
-}
+    }  
+    .about-img2{ 
+        transform: translateX(0px);
+    } 
+} 
+@media screen and (max-width: 1586px) { 
+    .about-page{ 
+        transform: translateY(50px); 
+    } 
+}     
