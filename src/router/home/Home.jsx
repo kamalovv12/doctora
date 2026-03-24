@@ -10,7 +10,7 @@ function Home() {
             <span className='about-text1'>Our Team</span>
           </div><br />
           <span className='about-text2'>Meet Our Expert Doctors</span><br />
-          <span className='about-text3'>Our team of highly qualified and experienced medical professionals is  <br /> providing the best care for our patients.</span>
+          <span className='about-text3'>Our team of highly qualified and experienced medical professionals  <br /> providing the best care for our patients.</span>
         </div>
       <div className="about-profil">
 
